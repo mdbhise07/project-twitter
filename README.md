@@ -1,2 +1,2 @@
 # project-twitter
-This is a clone of twitter.
+This is a frontend clone of twitter.
